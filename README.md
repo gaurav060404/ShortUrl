@@ -22,31 +22,7 @@ Screenshots
 - Express.js 
 - Mongoose 
 
-## Quick Start
-
-1. Install dependencies
-
-```
-npm install
-```
-
-2. Create a `env` file in the root directory of your project
-
-```
-VITE_BACKEND_URL=short.gouravsingh.dev
-```
-Or you can make your own backend and make requests there
-
-3. Start the server
-
-```
-npm run dev
-```
-
-### Notes & troubelshooting
-
-- Make sure you add the `VITE_BACKEND_URL` in `.env` file otherwise it'll not work.
-- You can make request to my backend only but there will be rate limiting.
+---
 
 
 
