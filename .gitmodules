@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/gaurav060404/frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/gaurav060404/UrlShortenerBackend.git
